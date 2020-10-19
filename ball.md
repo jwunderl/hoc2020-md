@@ -25,3 +25,4 @@ player.onChat("witch", function () {
     agent.interact(FORWARD)
 })
 ```
+
