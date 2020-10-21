@@ -17,7 +17,7 @@
         "t2.md"
     ],
     "targetVersions": {
-        "target": "1.5.43",
+        "target": "1.5.44",
         "targetId": "minecraft"
     },
     "supportedTargets": [
